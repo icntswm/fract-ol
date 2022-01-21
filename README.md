@@ -24,6 +24,7 @@ Program launch: `./fractol *fractal name*`
 ***
 ***Important:*** 
 > When you run the program in the terminal, the control panel opens, which indicates which keys are responsible for what
+>
 > <img src="https://i.ibb.co/9TnNxjY/cp.png" alt="cp" border="0" width="500" height="170">
 ***
 | Mandelbrot (zoom off) | Mandelbrot (zoom on) |
